@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + Vite" />
-  <p>jenkins-自动打包</p>
+  <p>jenkins-自动打包1</p>
 </template>
 
 <script setup>
